@@ -7,6 +7,6 @@ void gotoXY(int x, int y);
 void setFGcolor(int c);
 void resetColor(void);
 void setBGcolor(int c);
-void setBGcolor(int c);
+
 // added by Visual Studio (local change)
 // added from Github (remote change)
