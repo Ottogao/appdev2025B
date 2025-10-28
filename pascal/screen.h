@@ -1,5 +1,6 @@
 #pragma once
 enum COLORS{BLACK=30, RED, GEEN, YELLOW, BLUE, MAGENTA, CYAN, WHITE};
+#define SIZE 100
 // function declaration
 void clearScreen(void);
 void gotoXY(int x, int y);
