@@ -7,3 +7,5 @@ void gotoXY(int x, int y);
 void setFGcolor(int c);
 void resetColor(void);
 void setBGcolor(int c);
+
+// added from Github (remote change)
